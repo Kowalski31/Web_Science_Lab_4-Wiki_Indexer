@@ -1,4 +1,4 @@
-# Web_Science_Lab_4-Wiki_Indexer
+# HCMUS. Web science: Lab_4 - Wiki Indexer
 Handling data retrieved from pymediawiki module
 
 | MSSV | Họ tên |
